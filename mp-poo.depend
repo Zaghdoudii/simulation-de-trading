@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1620430238 source:c:\users\i-tec\desktop\project\mp-poo\tradingsimulateur.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"string.h"
+	"tradingsimulateur.h"
+
+1620436946 c:\users\i-tec\desktop\project\mp-poo\tradingsimulateur.h
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<list>
+
+1620436931 source:c:\users\i-tec\desktop\project\mp-poo\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"string.h"
+	"tradingsimulateur.h"
+
+1622909364 source:c:\users\i-tec\desktop\p3 & p4\poo_mp\project\mp-poo\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"string.h"
+	"tradingsimulateur.h"
+
+1622909364 c:\users\i-tec\desktop\p3 & p4\poo_mp\project\mp-poo\tradingsimulateur.h
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<list>
+	<map>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1622909364 source:c:\users\i-tec\desktop\p3 & p4\poo_mp\project\mp-poo\tradingsimulateur.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"string.h"
+	"tradingsimulateur.h"
+	<algorithm>
+
